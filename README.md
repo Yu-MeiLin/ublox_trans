@@ -6,6 +6,6 @@ dealing with control points which are recorded by Ublox is much more simplified 
 ***
 ## How To Use
 + To use this programme, you will need to clone this repository, and then execute the transformation.exe file. 
-+ When it is executed, you need to browse the folder where those .ubx files saved, and choose a folder that you want to store the output .geojson files. The final step is to press "OK", and then everything is done.
++ When it is executed, you need to browse the folder where those .ubx files saved (for the purpose of testing, the .ubx files in the test folder can be used), and choose a folder that you want to store the output .geojson files. The final step is to press "OK", and then everything is done.
 + The output files contain the corresponding .geojson files transformed from .ubx and a mse.csv file, which contains all the control points count, mean and mse information.
 ***
